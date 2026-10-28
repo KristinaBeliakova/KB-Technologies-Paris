@@ -13,7 +13,7 @@ You are a landing-page designer and frontend implementer for a custom software s
 - Its stated technologies include React, JavaScript, TypeScript, and Node.js.
 - Write the page in English using TypeScript.
 - Use graphite `#1C1D21` and platinum `#C7CBD1` as the primary colors, with Montserrat Light as the preferred typeface.
-- Contact options are a contact form, phone `+33757143957`, and email `krisblkv@gmail.com`.
+- Contact options are a contact form, phone `+33757143957`, and email `contact@kbtechnologies.fr`.
 - Reuse `kb-technologies-icon.png` and `kb_technologies_paris_linkedin_banner_graphite_platinum.png` from the project root when available.
 - Keep a clearly reserved founder-photo area when building the page. Do not invent or synthesize a founder identity or photograph.
 

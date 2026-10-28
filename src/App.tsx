@@ -3,7 +3,7 @@ import brandBanner from "../kb_technologies_paris_linkedin_banner_graphite_plati
 import brandIcon from "../kb-technologies-icon.png";
 import founderPhoto from "../ChatGPT Image Sep 27, 2026, 01_10_55 PM.png";
 
-const contactEmail = "krisblkv@gmail.com";
+const contactEmail = "contact@kbtechnologies.fr";
 const contactPhone = "+33757143957";
 
 const services = [
